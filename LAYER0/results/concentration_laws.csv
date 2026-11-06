@@ -1,0 +1,13 @@
+boundary,window,subset,sizes,best_law,delta_bic,verdict
+open,far,ALL,9,a+b*log(n),23.9095204649621,a+b*log(n)
+open,far,TEST,9,a+b*log(n),23.88797795544137,a+b*log(n)
+open,far,TRAIN,9,a+b*log(n),23.78678142637537,a+b*log(n)
+open,near,ALL,9,power,16.60545473633057,power
+open,near,TEST,9,power,16.07997504322232,power
+open,near,TRAIN,9,power,16.8495007207369,power
+periodic,far,ALL,5,a+b*log(n),13.48862585376073,a+b*log(n)
+periodic,far,TEST,5,a+b*log(n),13.43000646124949,a+b*log(n)
+periodic,far,TRAIN,5,a+b*log(n),13.460610824927642,a+b*log(n)
+periodic,near,ALL,5,power,8.98724126319344,undetermined on n = 4-12
+periodic,near,TEST,5,power,8.771151475769955,undetermined on n = 4-12
+periodic,near,TRAIN,5,power,9.079435420136399,undetermined on n = 4-12

@@ -1,0 +1,11 @@
+task_id,n,window,pairs,max_abs_difference,pass
+spin-generator-2:TFIM-periodic:n=10:h:far,10,far,25600,9.658940314238862e-15,True
+spin-generator-2:TFIM-periodic:n=10:h:near,10,near,25600,1.1546319456101628e-14,True
+spin-generator-2:TFIM-periodic:n=12:h:far,12,far,25600,1.2434497875801753e-14,True
+spin-generator-2:TFIM-periodic:n=12:h:near,12,near,25600,1.27675647831893e-14,True
+spin-generator-2:TFIM-periodic:n=4:h:far,4,far,25600,3.774758283725532e-15,True
+spin-generator-2:TFIM-periodic:n=4:h:near,4,near,25600,4.440892098500626e-15,True
+spin-generator-2:TFIM-periodic:n=6:h:far,6,far,25600,8.881784197001252e-15,True
+spin-generator-2:TFIM-periodic:n=6:h:near,6,near,25600,7.771561172376096e-15,True
+spin-generator-2:TFIM-periodic:n=8:h:far,8,far,25600,1.2545520178264269e-14,True
+spin-generator-2:TFIM-periodic:n=8:h:near,8,near,25600,1.2434497875801753e-14,True

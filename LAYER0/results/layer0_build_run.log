@@ -1,0 +1,22 @@
+known-answer checks passed (Bures commuting worst 2.2e-16)
+spin-generator-2:TFIM-periodic:n=10:h:far: done in 5s, check {'max_|<Y>|,|<Z>|': 1.27675647831893e-15, 'max_<X>_spread': 1.7763568394002505e-15, 'max_|FGW-closed_form|': 1.394717674685353e-15, 'passed': True}
+spin-generator-2:TFIM-periodic:n=10:h:near: done in 5s, check {'max_|<Y>|,|<Z>|': 1.2212453270876722e-15, 'max_<X>_spread': 2.886579864025407e-15, 'max_|FGW-closed_form|': 2.1094237467877974e-15, 'passed': True}
+spin-generator-2:TFIM-periodic:n=12:h:far: done in 5s, check {'max_|<Y>|,|<Z>|': 1.27675647831893e-15, 'max_<X>_spread': 2.1094237467877974e-15, 'max_|FGW-closed_form|': 1.1917550279960665e-15, 'passed': True}
+spin-generator-2:TFIM-periodic:n=12:h:near: done in 5s, check {'max_|<Y>|,|<Z>|': 1.0547118733938987e-15, 'max_<X>_spread': 2.6645352591003757e-15, 'max_|FGW-closed_form|': 2.5916768731093498e-15, 'passed': True}
+spin-generator-2:TFIM-periodic:n=4:h:far: done in 4s, check {'max_|<Y>|,|<Z>|': 1.6653345369377348e-16, 'max_<X>_spread': 4.163336342344337e-16, 'max_|FGW-closed_form|': 4.440892098500626e-16, 'passed': True}
+spin-generator-2:TFIM-periodic:n=4:h:near: done in 4s, check {'max_|<Y>|,|<Z>|': 1.6653345369377348e-16, 'max_<X>_spread': 3.3306690738754696e-16, 'max_|FGW-closed_form|': 6.661338147750939e-16, 'passed': True}
+spin-generator-2:TFIM-periodic:n=6:h:far: done in 4s, check {'max_|<Y>|,|<Z>|': 4.440892098500626e-16, 'max_<X>_spread': 5.551115123125783e-16, 'max_|FGW-closed_form|': 5.689893001203927e-16, 'passed': True}
+spin-generator-2:TFIM-periodic:n=6:h:near: done in 4s, check {'max_|<Y>|,|<Z>|': 4.440892098500626e-16, 'max_<X>_spread': 6.661338147750939e-16, 'max_|FGW-closed_form|': 6.938893903907228e-16, 'passed': True}
+spin-generator-2:TFIM-periodic:n=8:h:far: done in 4s, check {'max_|<Y>|,|<Z>|': 1.2212453270876722e-15, 'max_<X>_spread': 7.771561172376096e-16, 'max_|FGW-closed_form|': 6.661338147750939e-16, 'passed': True}
+spin-generator-2:TFIM-periodic:n=8:h:near: done in 4s, check {'max_|<Y>|,|<Z>|': 1.27675647831893e-15, 'max_<X>_spread': 1.3322676295501878e-15, 'max_|FGW-closed_form|': 1.124100812432971e-15, 'passed': True}
+                                      task_id  boundary   n window  N_train   scale_B   scale_h  max_distance  last_merge_radius last_two_sizes  last_two_vs_labels  n_H1  max_H1_length  seconds
+0   spin-generator-2:TFIM-periodic:n=10:h:far  periodic  10    far      112  0.237161  0.663847      1.158986           0.673252       (56, 56)                 1.0     0            0.0      4.6
+1  spin-generator-2:TFIM-periodic:n=10:h:near  periodic  10   near      112  0.140695  0.297756      1.286697           0.374999       (56, 56)                 1.0     0            0.0      4.6
+2   spin-generator-2:TFIM-periodic:n=12:h:far  periodic  12    far      112  0.237510  0.663847      1.158535           0.675233       (56, 56)                 1.0     0            0.0      5.1
+3  spin-generator-2:TFIM-periodic:n=12:h:near  periodic  12   near      112  0.142866  0.297756      1.281623           0.382344       (56, 56)                 1.0     0            0.0      5.1
+4    spin-generator-2:TFIM-periodic:n=4:h:far  periodic   4    far      112  0.222606  0.663847      1.172026           0.639585       (56, 56)                 1.0     0            0.0      3.8
+5   spin-generator-2:TFIM-periodic:n=4:h:near  periodic   4   near      112  0.113026  0.297756      1.323621           0.347846       (56, 56)                 1.0     0            0.0      3.8
+6    spin-generator-2:TFIM-periodic:n=6:h:far  periodic   6    far      112  0.232988  0.663847      1.163002           0.659822       (56, 56)                 1.0     0            0.0      3.9
+7   spin-generator-2:TFIM-periodic:n=6:h:near  periodic   6   near      112  0.128879  0.297756      1.306693           0.357284       (56, 56)                 1.0     0            0.0      4.0
+8    spin-generator-2:TFIM-periodic:n=8:h:far  periodic   8    far      112  0.236134  0.663847      1.160108           0.669008       (56, 56)                 1.0     0            0.0      4.1
+9   spin-generator-2:TFIM-periodic:n=8:h:near  periodic   8   near      112  0.136660  0.297756      1.294645           0.366557       (56, 56)                 1.0     0            0.0      4.2

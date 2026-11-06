@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+# the dataset (index in Bel-The-Wizard/TME4, problem folders from the author)
+COURSEWORK/TME4/data_final/
+# working logs and private notes stay out
+LOG.md*

@@ -1,0 +1,4 @@
+# The 1 368 problem folders (7.5 GB) are not stored in git; see README.md.
+data_final/problems/
+__pycache__/
+*.pyc
